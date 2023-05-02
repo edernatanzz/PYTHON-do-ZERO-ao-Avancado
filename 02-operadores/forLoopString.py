@@ -1,6 +1,6 @@
 #for loops para letras
 
-palavra = "google"
+palavra = " teste "
 
 for string in palavra :
-    print(f"{string} esta dentro da palavra Google")
+    print(f"{string} esta dentro da palavra Google{palavra}")
